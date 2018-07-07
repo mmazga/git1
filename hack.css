@@ -1,0 +1,27 @@
+.Category{
+	display: flex;
+	flex-direction: column;
+	width :300px;
+	height: 800px;
+	display: inline-block;
+    flex-wrap: nowrap;
+}
+.Hotels{
+	background-color: blue;
+	height: 100px;
+	width: 30%;
+	display: inline-block;
+}
+	
+.Guids{
+	background-color: blue;
+	height: 100px;
+	width: 30%;
+	display: inline-block;
+}
+.Equip{
+	background-color: blue;
+	height: 100px;
+	width: 30%;
+	display: inline-block
+}
